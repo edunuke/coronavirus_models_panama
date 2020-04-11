@@ -17,4 +17,4 @@ Los datos se actualizan una vez reportados.
 * hosp_sala: [float] total de hospitalizados en sala
 * aislamiento_dom: [float] total en aislamiento domicilario (hotel o casa)
 
-_Nota: Los datos en este repositorio intentan ser fiel a los datos reportados pero no son oficiales. Pueden contener errores o sufrir modificaciones por diversas razones. Utilizar solo como fin didáctico._
+_Nota: Los datos en este repositorio intentan ser fiel a los datos reportados pero no son oficiales. Pueden contener errores o sufrir modificaciones por diversas razones. Utilizar bajo su propio riesgo._

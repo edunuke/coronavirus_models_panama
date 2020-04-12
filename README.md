@@ -4,7 +4,8 @@ Serie de tiempo de casos de covid19 confirmados en la República de Panamá.
 
 # Ultima actualización
 
-Última actualización: ongoing (ver descripcion de commit). \nLos datos se actualizan una vez reportados.
+Última actualización: ongoing (ver descripcion de commit).
+Los datos se actualizan una vez reportados.
 
 # Descripción de datos
 

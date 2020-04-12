@@ -16,5 +16,7 @@ Los datos se actualizan una vez reportados.
 * hosp_uci: [float] total hospitalizados en UCI
 * hosp_sala: [float] total de hospitalizados en sala
 * aislamiento_dom: [float] total en aislamiento domicilario (hotel o casa)
+* pruebas_positivas : [float] pruebas realizadas positivas
+* pruebas_negativas : [float] pruebas realizadas negativas
 
 _Nota: Los datos en este repositorio intentan ser fiel a los datos reportados pero no son oficiales. Pueden contener errores o sufrir modificaciones por diversas razones. Utilizar bajo su propio riesgo._
